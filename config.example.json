@@ -6,7 +6,7 @@
         "webhook_url": ""
     },
     "discord": {
-        "active": false,
-        "webhook_url": ""
+        "active": true,
+        "webhook_url": "https://discordapp.com/api/webhooks/504115440629317642/9kJPRT3aRb-Ahg-KnapP-f7e_XzCgPGJou40nkqECiYwC9HoUqqKi4egzjXFpFHv4dKM"
     }
 }
